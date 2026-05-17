@@ -150,9 +150,9 @@ Each change will generate new AI insights when you run the engine again.
 
 Already configured in `.env.local`:
 ```
-GEMINI_API_KEY=AIzaSyDauqQBfgjlOAyNZHpvA_M4X_3LpRRUnHk
-NEXT_PUBLIC_SUPABASE_URL=https://mqhinpgqredkzqdvukia.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=sb_publishable_BWvslnLTPPiEJHzJUQMaLQ_OlRzV5el
+GEMINI_API_KEY=YOUR_API_KEY
+NEXT_PUBLIC_SUPABASE_URL=YOUR_DATABASE_URL
+NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_DATABASE_URL
 ```
 
 ---
