@@ -1,0 +1,19 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.17.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\Supraj U Shivajji\Downloads\hackathon\pro1\.npmrc
+5 silly config load:file:C:\Users\Supraj U Shivajji\.npmrc
+6 silly config load:file:C:\Users\Supraj U Shivajji\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm view next version
+8 verbose argv "view" "next" "version" "--cache" ".npm-cache" "--loglevel" "verbose" "--fetch-retries" "1" "--fetch-timeout" "15000"
+9 verbose logfile logs-max:10 dir:C:\Users\Supraj U Shivajji\Downloads\hackathon\pro1\.npm-cache\_logs\2026-05-15T14_43_58_345Z-
+10 verbose logfile C:\Users\Supraj U Shivajji\Downloads\hackathon\pro1\.npm-cache\_logs\2026-05-15T14_43_58_345Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/next 549ms (cache revalidated)
+13 verbose cwd C:\Users\Supraj U Shivajji\Downloads\hackathon\pro1
+14 verbose os Windows_NT 10.0.26200
+15 verbose node v22.17.0
+16 verbose npm  v10.9.2
+17 verbose exit 0
+18 info ok
